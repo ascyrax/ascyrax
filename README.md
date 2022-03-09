@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://twitter.com/ascyrax">
+    <img src="https://img.shields.io/twitter/follow/ascyrax?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://codeforces.com/profile/darklord."> 
+    <img src="" />
+  </a>
+  <a href="https://www.codechef.com/users/darklord99"> 
+    <img src="" />
+  </a>
+    <a href="https://atcoder.jp/users/ascyrax"> 
+    <img src="" />
+  </a>
+</p>
