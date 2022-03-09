@@ -25,6 +25,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/twitter/follow/ascyrax?color=yellow&label=codechef&logo=codechef&logoColor=yellow&style=for-the-badge" />
   </a>
     <a href="https://atcoder.jp/users/ascyrax"> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=brown&label=atcoder&logo=atcoder&logoColor=brown&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=brown&label=atcoder&logo=topcoder&logoColor=brown&style=for-the-badge" />
   </a>
 </p>
