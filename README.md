@@ -19,12 +19,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/twitter/follow/ascyrax?color=blue&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge" />
   </a>
   <a href="https://codeforces.com/profile/darklord."> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=green&label=codeforces&logo=codeforces&logoColor=green&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=cyan&label=codeforces&logo=codeforces&logoColor=cyan&style=for-the-badge" />
   </a>
   <a href="https://www.codechef.com/users/darklord99"> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=yellow&label=codechef&logo=codechef&logoColor=yellow&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=cyan&label=codechef&logo=codechef&logoColor=cyan&style=for-the-badge" />
   </a>
-    <a href="https://atcoder.jp/users/ascyrax"> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=brown&label=atcoder&logo=topcoder&logoColor=brown&style=for-the-badge" />
+   <a href="https://atcoder.jp/users/ascyrax"> 
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=cyan&label=atcoder&logo=topcoder&logoColor=cyan&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ascyrax/"> 
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=cyan&label=linkedin&logo=linkedin&logoColor=cyan&style=for-the-badge" />
   </a>
 </p>
