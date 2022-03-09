@@ -22,10 +22,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/twitter/follow/ascyrax?color=cyan&label=codeforces&logo=codeforces&logoColor=cyan&style=for-the-badge" />
   </a>
   <a href="https://www.codechef.com/users/darklord99"> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=green&label=codechef&logo=codechef&logoColor=green&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=red&label=codechef&logo=codechef&logoColor=red&style=for-the-badge" />
   </a>
    <a href="https://atcoder.jp/users/ascyrax"> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=yellow&label=atcoder&logo=topcoder&logoColor=yellow&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=green&label=atcoder&logo=topcoder&logoColor=green&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/ascyrax/"> 
     <img src="https://img.shields.io/twitter/follow/ascyrax?color=blue&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge" />
