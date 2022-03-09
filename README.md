@@ -1,4 +1,6 @@
-### Hi there 👋
+###  👋 Hi there. anyoung haseyo. Hola. Bonjour. konnichiwa. Guten Tag. nǐn hǎo. salve. Zdravstvuyte.👋 
+
+###   I AM A CODER FOR FUN. (stolen from One Punch Man 🤣)
 
 <!--
 **ascyrax/ascyrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
