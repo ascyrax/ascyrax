@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://twitter.com/ascyrax">
-    <img src="https://img.shields.io/twitter/follow/ascyrax?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=blue&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge" />
   </a>
   <a href="https://codeforces.com/profile/darklord."> 
-    <img src="" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=green&label=codeforces&logo=codeforces&logoColor=green&style=for-the-badge" />
   </a>
   <a href="https://www.codechef.com/users/darklord99"> 
-    <img src="" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=yellow&label=codechef&logo=codechef&logoColor=yellow&style=for-the-badge" />
   </a>
     <a href="https://atcoder.jp/users/ascyrax"> 
-    <img src="" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=brown&label=atcoder&logo=atcoder&logoColor=brown&style=for-the-badge" />
   </a>
 </p>
