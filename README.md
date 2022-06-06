@@ -1,6 +1,6 @@
 ###  👋 Hi there. anyoung haseyo. Hola. Bonjour. konnichiwa. Guten Tag. nǐn hǎo. salve. Zdravstvuyte.👋 
 
-<p align="center" > I AM A GUY WHO IS A CODER FOR FUN. (stolen from One Punch Man 🤣) </p>
+<p align="center" >Ore wa CODER for FUN. (stolen from One Punch Man 🤣) </p>
 
 
 <!--
