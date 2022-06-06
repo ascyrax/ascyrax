@@ -3,9 +3,6 @@
 <p align="center" > I AM A GUY WHO IS A CODER FOR FUN. (stolen from One Punch Man 🤣) </p>
 
 
--🌱 I’m currently learning p5.js, processing.js[https://github.com/processing], Java, Java Server, Android, Google Cloud, LibGDX.
-- 📫 How to reach me: Twitter/LinkedIn
-
 <!--
 **ascyrax/ascyrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,3 +34,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/twitter/follow/ascyrax?color=blue&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge" />
   </a>
 </p>
+
+
+
+-🌱 I’m currently learning p5.js, processing.js[https://github.com/processing], Java, Java Server, Android, Google Cloud, LibGDX.
+- 📫 How to reach me: Twitter/LinkedIn
+
+
