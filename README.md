@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://twitter.com/ascyrax">
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=blue&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/ascyrax?color=lightblue&label=twitter&logo=twitter&logoColor=lightblue&style=for-the-badge" />
   </a>
   <a href="https://codeforces.com/profile/darklord."> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=cyan&label=codeforces&logo=codeforces&logoColor=cyan&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/url?color=red&label=codeforces&logo=codeforces&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fcodeforces.com%2Fprofile%2Fdarklord." />
   </a>
   <a href="https://www.codechef.com/users/darklord99"> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=red&label=codechef&logo=codechef&logoColor=red&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/url?color=white&label=codechef&logo=codeforces&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fdarklord99" />
   </a>
    <a href="https://atcoder.jp/users/ascyrax"> 
     <img src="https://img.shields.io/twitter/follow/ascyrax?color=green&label=atcoder&logo=topcoder&logoColor=green&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/ascyrax/"> 
-    <img src="https://img.shields.io/twitter/follow/ascyrax?color=blue&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedIn&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fascyrax%2F" />
   </a>
 </p>
 
