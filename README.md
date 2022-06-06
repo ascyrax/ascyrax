@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
 -🌱 I’m currently learning p5.js, processing.js[https://github.com/processing], Java, Java Server, Android, Google Cloud, LibGDX.
-- 📫 How to reach me: Twitter/LinkedIn
+- 📫 How to reach me: Twitter/LinkedIn (Links are abobe)
 
 
