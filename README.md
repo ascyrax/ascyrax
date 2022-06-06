@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://twitter.com/ascyrax">
-    <img src="https://img.shields.io/twitter/ascyrax?color=lightblue&label=twitter&logo=twitter&logoColor=lightblue&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fascyrax" />
   </a>
   <a href="https://codeforces.com/profile/darklord."> 
-    <img src="https://img.shields.io/twitter/url?color=red&label=codeforces&logo=codeforces&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fcodeforces.com%2Fprofile%2Fdarklord." />
+    <img src="https://img.shields.io/twitter/url?color=blue&label=codeforces&logo=codeforces&logoColor=red&style=social&url=https%3A%2F%2Ftwitter.com%2Fascyrax" />
   </a>
   <a href="https://www.codechef.com/users/darklord99"> 
-    <img src="https://img.shields.io/twitter/url?color=white&label=codechef&logo=codeforces&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fdarklord99" />
+    <img src="https://img.shields.io/twitter/url?color=blue&label=codechef&logo=codechef&logoColor=green&style=social&url=https%3A%2F%2Ftwitter.com%2Fascyrax" />
   <a href="https://www.linkedin.com/in/ascyrax/"> 
-    <img src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=linkedIn&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fascyrax%2F" />
+    <img src="https://img.shields.io/twitter/url?color=blue&label=linkedIn&logo=linkedIN&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2Fascyrax" />
   </a>
 </p>
 
