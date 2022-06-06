@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/ascyrax">
     <img src="https://img.shields.io/twitter/follow/ascyrax?color=blue&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge" />
   </a>
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fascyrax">
   <a href="https://codeforces.com/profile/darklord."> 
     <img src="https://img.shields.io/twitter/follow/ascyrax?color=cyan&label=codeforces&logo=codeforces&logoColor=cyan&style=for-the-badge" />
   </a>
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
 
 
 -🌱 I’m currently learning [p5.js](https://github.com/processing/p5.js), [processing.js](https://github.com/processing), Java, Java Server, Android, Google Cloud, LibGDX.
+
 -📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)
 
 
