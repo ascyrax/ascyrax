@@ -1,7 +1,7 @@
 ###  👋 नमस्ते. Hi there. こんにちわ.👋 
 
-<p align="center" >i am a person who is a doing a coder as a hobby</p>
-<p align="center" >私は趣味でコーダーをやっている者です.  </p>
+<p align="center" >i am a person who is doing a coder as a hobby</p>
+<p align="center" >趣味でコーダーをやっている者です.  </p>
 
 <!-- Hola. Bonjour. hallo. 您好. salve. Привет. 안녕하세요 -->
 <!--
