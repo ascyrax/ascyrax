@@ -32,10 +32,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
--🌱 I’m currently learning [p5.js](https://github.com/processing/p5.js), [processing.js](https://github.com/processing), Java, Java Server, Android, Google Cloud, LibGDX.
-
--📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)
+- 🔭 I have experience with full stack web development [ REACT + TYPESCRIPT + NODEJS ]
+- 🔭 I love competitve coding [ codeforces ] and problem solving.
+- 🌱 I am also a creative coder [p5.js](https://github.com/processing/p5.js), [processing.js](https://github.com/processing)
+  
+  
+- 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)
 
 
 
