@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ I love competitve coding [ [codeforces](https://codeforces.com/profile/darklord./) ] and problem solving.
 - 🌱 I am also a creative coder [p5.js, processing]
   
-- 💻 I have a little knowledge of ML, Android, Data Science, DevOps, Computer Networking, Operating Systems, DBMS, Distributed Systems, etc too.
+- 💻 I have a little knowledge of fields like ML, Android, Data Science, DevOps, Computer Networking, Operating Systems, DBMS and Distributed Systems too. This was achieved through academics and hobby coding/ studying.
   
 - 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)
 
