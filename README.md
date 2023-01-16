@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/ascyrax">
     <img src="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fascyrax" />
   </a>
-  <a href="https://codeforces.com/profile/darklord."> 
+  <a href="https://codeforces.com/profile/izuku_midoriya"> 
     <img src="https://img.shields.io/twitter/url?color=blue&label=codeforces&logo=codeforces&logoColor=red&style=social&url=https%3A%2F%2Ftwitter.com%2Fascyrax" />
   </a>
   <a href="https://www.codechef.com/users/darklord99"> 
