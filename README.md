@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 💻 React and JS are my strongest skills in development.
+- 💻 React and JS are my strongest dev skills.
 - 🔭 I have experience with full stack web development [ MERN ] too.
 - ⚡ I love competitve coding [ [codeforces](https://codeforces.com/profile/darklord./) ] and problem solving.
 - 🌱 I am also a creative coder [p5.js, processing] in my spare time.
