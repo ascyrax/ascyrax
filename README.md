@@ -32,9 +32,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I have experience with full stack web development [ REACT + TYPESCRIPT + NODEJS ]
+- 💻 React and JS are my strongest skills in development.
+- 🔭 I have experience with full stack web development [ MERN ] too.
 - ⚡ I love competitve coding [ [codeforces](https://codeforces.com/profile/darklord./) ] and problem solving.
-- 🌱 I am also a creative coder [p5.js, processing]
+- 🌱 I am also a creative coder [p5.js, processing] in my spare time.
   
 - 💻 I have a little knowledge of fields like ML, Android, Data Science, DevOps, Computer Networking, Operating Systems, DBMS and Distributed Systems too. This was achieved through academics and hobby coding.
   
