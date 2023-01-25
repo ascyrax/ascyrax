@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 💻 React and JS are my strongest dev skills.
-- 🔭 I have experience with full stack web development [ MERN ] too.
-- ⚡ I love competitve coding [ [codeforces](https://codeforces.com/profile/darklord./) ] and problem solving.
+- 💻 React and JS are my strongest skills in dev.
+- 💪🏼 Strong problem solving skills thanks to COMPETITVE CODING [ [codeforces](https://codeforces.com/profile/darklord./) ]
+- 🔭 I have decent experience with full stack web development [ MERN ].
 - 🌱 I am also a creative coder [p5.js, processing] in my spare time.
   
 - 💻 I have a little knowledge of fields like ML, Android, Data Science, DevOps, Computer Networking, Operating Systems, DBMS and Distributed Systems too. This was achieved through academics and hobby coding.
