@@ -32,9 +32,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 💻 Full Stack Web Developer.
+- 💻 Software Developer.
 - 💪🏼 STRONG PROBLEM-SOLVING skills thanks to COMPETITVE CODING [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
-- 🔭 DEVOPS Engineer.
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)
 
