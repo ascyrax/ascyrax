@@ -1,5 +1,6 @@
 ### 👋 नमस्ते. Hi there. こんにちわ.👋 
-                                                                                       
+
+<p align="center" >i know a thing or two about computers :) </p>
 <p align="center" >i am a coder for fun</p>
 <p align="center" >私は楽しみのためのコーダーです  </p>
 
@@ -32,7 +33,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 💻 Software Developer.
+- Fronted is a no-no. lost interest at some point.
+- Backend is a go-go.
+- Devops is a go-go.
 - 💪🏼 STRONG PROBLEM-SOLVING skills thanks to COMPETITVE CODING [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)
