@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - Currently figuring out how modern CPUs work, low-level code, caching, multithreading, SIMD, performance-critical code, etc. 
 - simultaneously, learning about software architectures and system design concepts too :)
 - game development when I get a chance :)
-- 💪🏼 STRONG PROBLEM-SOLVING skills thanks to COMPETITVE CODING [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
+- competitive programming when i feel like solving some problems :) [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)/[mail](mailto:ascyrax00@gmail.com)
 
