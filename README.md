@@ -33,12 +33,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- Fronted is a no-no. lost interest at some point.
-- Backend is a go-go.
-- Devops is a go-go.
+- I know some frontend, backend & devOps stuff :)
+- Currently figuring out how modern CPUs work, low-level code, caching, multithreading, SIMD, performance-critical code, etc. 
+- simultaneously, learning about software architectures and system design concepts too :)
+- game development when I get a chance :)
 - 💪🏼 STRONG PROBLEM-SOLVING skills thanks to COMPETITVE CODING [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
 
-- 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)
+- 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)/[mail](mailto:ascyrax00@gmail.com)
 
 
 
