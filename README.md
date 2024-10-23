@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - I know some frontend, backend & devOps stuff :)
 - Currently figuring out how modern CPUs work, low-level code, caching, multithreading, SIMD, performance-critical code, etc. 
 - simultaneously, learning about software architectures and system design concepts too :)
-- game development when I get a chance :)
+- I have tried basic game development using SDL C++ :)
 - competitive programming when i feel like solving some problems :) [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)/[mail](mailto:ascyrax00@gmail.com)
