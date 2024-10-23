@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - Done some software architecture and system design stuff too.
 - I have tried basic game development using SDL C++ :)
 - competitive programming when i feel like solving some problems :) [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
+- Interested in + left todo for later: Quantum Technology, Computational Biology, Economics.
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)/[mail](mailto:ascyrax00@gmail.com)
 
