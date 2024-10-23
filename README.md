@@ -1,7 +1,7 @@
 ### 👋 नमस्ते. Hi there. こんにちわ.👋 
 
 <p align="center" >i know a thing or two about computers :) </p>
-<p align="center" >i am a coder for fun</p>
+<p align="center" >Current Goal: Expand my knowledge in various engineering fields => figure out what I wanna contribute to :)</p>
 <p align="center" >私は楽しみのためのコーダーです  </p>
 
 <!-- Hola. Bonjour. hallo. 您好. salve. Привет. 안녕하세요 -->
