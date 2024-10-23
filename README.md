@@ -32,10 +32,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/twitter/url?color=blue&label=linkedIn&logo=linkedIN&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2Fascyrax" />
   </a>
 </p>
-
+    
+- Currently focusing on AI, electrical engineering & biology :)
 - I know some frontend, backend & devOps stuff :)
-- Currently figuring out how modern CPUs work, low-level code, caching, multithreading, SIMD, performance-critical code, etc. 
-- simultaneously, learning about software architectures and system design concepts too :)
+- I know some performance engineering too :) viz. how modern CPUs work, low-level code, caching, multithreading, SIMD, performance-critical code, etc. 
+- Done some software architecture and system design stuff too.
 - I have tried basic game development using SDL C++ :)
 - competitive programming when i feel like solving some problems :) [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
 
