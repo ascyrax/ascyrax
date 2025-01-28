@@ -33,13 +33,13 @@ Here are some ideas to get you started:
   </a>
 </p>
     
-- Currently focusing on AI, electrical engineering & biology :)
-- I know some frontend, backend & devOps stuff :)
+- Currently focusing on AI & Robotics & Game Development (Unreal Engine 5 + Blender + C++/Blueprint) :)
+- I have built a full game (Android) using Godot. [Space Defense](https://github.com/ascyrax/circle-defence) . WIP :)
+- Expert in web development & DEPLOYMENT viz. frontend, backend & DEVOPS stuff :)
 - I know some performance engineering too :) viz. how modern CPUs work, low-level code, caching, multithreading, SIMD, performance-critical code, etc. 
 - Done some software architecture and system design stuff too.
-- I have tried basic game development using SDL C++ :)
-- competitive programming when i feel like solving some problems :) [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
-- Interested in + left todo for later: Quantum Technology, Computational Biology, Economics.
+- competitive programming when i feel like solving some coding problems :) [ [codeforces](https://codeforces.com/profile/izuku_midoriya/) ]
+- Interested in + left todo for later: Quantum Technology, Computational Biology, Electornics Engineering, Robotics, Economics.
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ascyrax)/[LinkedIn](https://www.linkedin.com/in/ascyrax/)/[mail](mailto:ascyrax00@gmail.com)
 
